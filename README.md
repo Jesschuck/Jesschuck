@@ -1,6 +1,6 @@
 # <div align="center">👋 Hi there, I’m Jess</div>
 
-<div align="center">Having worked as a fashion designer in Brazil, I am currently in the midst of a career transition, immersing myself in the world of programming and finding a new and exciting passion along the way! ✨</div>
+<div align="center">Having worked for seven years as a fashion designer in Brazil, I am currently in the midst of a career transition, immersing myself in the world of programming and finding a new and exciting passion along the way! ✨</div>
 
 **<div align="center">I'm currently studying:</div>**
 
