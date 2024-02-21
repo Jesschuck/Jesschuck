@@ -7,6 +7,7 @@
 <div align="center">
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-557?style=for-the-badge&logo=javascript&logoColor=fff)
+![React](https://img.shields.io/badge/React-557?style=for-the-badge&logo=react&logoColor=fff)
 ![Python](https://img.shields.io/badge/Python-557?style=for-the-badge&logo=python&logoColor=fff)
 ![HTML5](https://img.shields.io/badge/HTML5-557?style=for-the-badge&logo=html5&logoColor=fff)
 ![CSS3](https://img.shields.io/badge/CSS3-557?style=for-the-badge&logo=css3&logoColor=fff)
