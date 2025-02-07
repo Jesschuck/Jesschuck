@@ -1,17 +1,17 @@
 # <div align="center">👋 Hi there, I’m Jess</div>
+<div align="center"> 💻✨ Software Engineer Intern | Code, Creativity & Animals 🐱🐾 </div>
 
-<div align="center">Having worked for seven years as a fashion designer in Brazil, I am currently in the midst of a career transition, immersing myself in the world of programming and finding a new and exciting passion along the way! ✨</div>
 
 **<div align="center">I'm currently studying:</div>**
 
 <div align="center">
 
-![Java](https://img.shields.io/badge/Java-557?style=for-the-badge&logo=python&logoColor=fff)
+![Java](https://img.shields.io/badge/java-557?style=for-the-badge&logo=openjdk&logoColor=fff)
+![C#](https://img.shields.io/badge/C%23-557?style=for-the-badge&logo=c-sharp&logoColor=fff)
 ![MySQL](https://img.shields.io/badge/MySQL-557?style=for-the-badge&logo=mysql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-557?style=for-the-badge&logo=javascript&logoColor=fff)
-![React](https://img.shields.io/badge/React-557?style=for-the-badge&logo=react&logoColor=fff)
-![HTML5](https://img.shields.io/badge/HTML5-557?style=for-the-badge&logo=html5&logoColor=fff)
-![CSS3](https://img.shields.io/badge/CSS3-557?style=for-the-badge&logo=css3&logoColor=fff)
+![Angular](https://img.shields.io/badge/Angular-557?style=for-the-badge&logo=react&logoColor=fff)
+![.NET](https://img.shields.io/badge/.NET-557?style=for-the-badge&logo=.net&logoColor=fff)
 ![NodeJS](https://img.shields.io/badge/node.js-557?style=for-the-badge&logo=node.js&logoColor=white)
 </div>
 
@@ -26,7 +26,6 @@
 <div align="center"> 
  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-557?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/j%C3%A9ssica-schuck/)
-[![Instagram](https://img.shields.io/badge/Instagram-557?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/jesschuck/)
 
 </div>
 
