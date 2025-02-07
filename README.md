@@ -6,18 +6,21 @@
 
 <div align="center">
 
-![Java](https://img.shields.io/badge/java-557?style=for-the-badge&logo=openjdk&logoColor=fff)
-![C#](https://img.shields.io/badge/C%23-557?style=for-the-badge&logo=c-sharp&logoColor=fff)
-![MySQL](https://img.shields.io/badge/MySQL-557?style=for-the-badge&logo=mysql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-557?style=for-the-badge&logo=javascript&logoColor=fff)
-![Angular](https://img.shields.io/badge/Angular-557?style=for-the-badge&logo=react&logoColor=fff)
-![.NET](https://img.shields.io/badge/.NET-557?style=for-the-badge&logo=.net&logoColor=fff)
-![NodeJS](https://img.shields.io/badge/node.js-557?style=for-the-badge&logo=node.js&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ffb6c1?style=for-the-badge&logo=openjdk&logoColor=000)
+![C#](https://img.shields.io/badge/C%23-ffb6c1?style=for-the-badge&logo=c-sharp&logoColor=000)
+![MySQL](https://img.shields.io/badge/MySQL-ffb6c1?style=for-the-badge&logo=mysql&logoColor=000)
+![JavaScript](https://img.shields.io/badge/JavaScript-ffb6c1?style=for-the-badge&logo=javascript&logoColor=000)
+![Angular](https://img.shields.io/badge/Angular-ffb6c1?style=for-the-badge&logo=angular&logoColor=000)
+![.NET](https://img.shields.io/badge/.NET-ffb6c1?style=for-the-badge&logo=.net&logoColor=000)
+![NodeJS](https://img.shields.io/badge/Node.js-ffb6c1?style=for-the-badge&logo=node.js&logoColor=000)
+
 </div>
+
+
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jesschuck&theme=transparent&bg_color=557&border_color=000&show_icons=true&icon_color=ffu&title_color=fff&text_color=FFF)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jesschuck&theme=transparent&bg_color=ffb6c1&border_color=000&show_icons=true&icon_color=000&title_color=000&text_color000)
 
 </div>
 
@@ -25,7 +28,7 @@
 
 <div align="center"> 
  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-557?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/j%C3%A9ssica-schuck/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ffb6c1?style=for-the-badge&logo=linkedin&logoColor=000)](https://www.linkedin.com/in/j%C3%A9ssica-schuck/)
 
 </div>
 
