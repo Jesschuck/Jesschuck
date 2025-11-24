@@ -7,7 +7,7 @@
 <div align="center">
 
 ![Java](https://img.shields.io/badge/Java-ffb6c1?style=for-the-badge&logo=openjdk&logoColor=000)
-![Python](https://img.shields.io/badge/Python-ffb6c1?style=for-the-badge&logo=c-sharp&logoColor=000)
+![Python](https://img.shields.io/badge/Python-ffb6c1?style=for-the-badge&logo=python&logoColor=000)
 ![MySQL](https://img.shields.io/badge/MySQL-ffb6c1?style=for-the-badge&logo=mysql&logoColor=000)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ffb6c1?style=for-the-badge&logo=javascript&logoColor=000)
 ![Angular](https://img.shields.io/badge/Angular-ffb6c1?style=for-the-badge&logo=angular&logoColor=000)
