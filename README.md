@@ -11,6 +11,7 @@
 ![MySQL](https://img.shields.io/badge/MySQL-ffb6c1?style=for-the-badge&logo=mysql&logoColor=000)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ffb6c1?style=for-the-badge&logo=javascript&logoColor=000)
 ![Angular](https://img.shields.io/badge/Angular-ffb6c1?style=for-the-badge&logo=angular&logoColor=000)
+![SpringBoot](https://img.shields.io/badge/SpringBoot-ffb6c1?style=for-the-badge&logo=springboot&logoColor=000)
 
 </div>
 
