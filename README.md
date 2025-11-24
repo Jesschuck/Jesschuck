@@ -15,13 +15,6 @@
 </div>
 
 
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jesschuck&theme=transparent&bg_color=ffb6c1&border_color=000&show_icons=true&icon_color=000&title_color=000&text_color000)
-
-</div>
-
 **<div align="center"> Connect with me:</div>**
 
 <div align="center"> 
