@@ -1,5 +1,5 @@
 # <div align="center">👋 Hi there, I’m Jess</div>
-<div align="center"> 💻✨ Software Engineer Intern | Code, Creativity & Animals 🐱🐾 </div>
+<div align="center"> 💻✨ Software Engineer | Code, Creativity & Animals 🐱🐾 </div>
 
 
 **<div align="center">I'm currently studying:</div>**
